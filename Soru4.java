@@ -17,7 +17,7 @@ class Soru4 {
 		
 		Scanner input=new Scanner(System.in);
 		
-		System.out.println("Enter a 4-digit number pleas:");
+		System.out.println("Enter a 4-digit number please:");
 		digit=input.nextInt();
 		
 		num1= digit % 10;
@@ -30,10 +30,10 @@ class Soru4 {
 		digit2= sum*sum*sum;
 		
 		if (digit==digit2){
-			System.out.println("The number fills its cube!");
+			System.out.println("The number fills it's cube!");
 		}
 		else {
-			System.out.println("The number fills NOT its cube!");
+			System.out.println("The number fills NOT it's cube!");
 		}
 	}
 }
