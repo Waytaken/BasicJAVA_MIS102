@@ -6,10 +6,10 @@ class Soru7 {
 	 *  the price per liter of fuel and the total km made by the vehicle.
 		Example:
 		Fuel consumption per km (lt) 0.1
-		Price of 1 liter of fuel (YTL) 2.080
+		Price of 1 liter of fuel (TL) 2.080
 		The total distance covered by the vehicle (km) 1000
 		---------------------------------
-		Total fuel cost 208 YTL */
+		Total fuel cost 208 TL */
 
 	
 	public static void main(String[] args) {
