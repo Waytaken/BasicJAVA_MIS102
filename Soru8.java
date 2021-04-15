@@ -42,7 +42,7 @@ class Soru8 {
 		
 		total2= ba*dc;
 		
-		//System.out.println(""+ab+""+cd+"-"+ba+""+dc);  testing whether its correct
+		//System.out.println(""+ab+""+cd+"-"+ba+""+dc);  //testing whether its sweped correct
 		
 		if (total1 == total2) {
 			System.out.println("The entered number is an inverted number!");
