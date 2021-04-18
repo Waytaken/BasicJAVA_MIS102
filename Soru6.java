@@ -47,7 +47,7 @@ class Soru6 {
 		System.out.println("Your first aid score: " +Fscore);
 		
 		//HESAPLAMA DOGRU - AMA SONUC YANLISSS ????
-		// The calculation is right but the solution is wrong. No idea why. İf you have an idea feel free to contact me!
+		// The calculation is right but the solution is wrong. No idea why. If you have an idea feel free to contact me!
 		
 		if (Tscore >=70 && Escore>=70 && Fscore >=70) {
 			System.out.println("Congratulations, you can take the steering test!");
